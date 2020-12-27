@@ -1,0 +1,20 @@
+[
+    {
+        "surname":"Иванов",
+        "name":"Иван",
+        "age":19,
+        "averageMark":9
+    },
+    {
+        "surname":"Петров",
+        "name":"Пётр",
+        "age":18,
+        "averageMark":7
+    },
+    {
+        "surname":"Сидоров",
+        "name":"Андрей",
+        "age":19,
+        "averageMark":8
+    }
+]
